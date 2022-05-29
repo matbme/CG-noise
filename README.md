@@ -25,11 +25,11 @@ $ ./app
 ### Exercicio 1: Gerar 4 mapas "vizinhos"
 
 <p align="middle">
-  <img src="/Previews/Ex1-1.jpg" width="500" />
-  <img src="/Previews/Ex1-2.jpg" width="500" />
+  <img src="/Previews/Ex1-1.jpg" width="300" />
+  <img src="/Previews/Ex1-2.jpg" width="300" />
   <br/>
-  <img src="/Previews/Ex1-3.jpg" width="500" />
-  <img src="/Previews/Ex1-4.jpg" width="500" /> 
+  <img src="/Previews/Ex1-3.jpg" width="300" />
+  <img src="/Previews/Ex1-4.jpg" width="300" /> 
 </p>
 
 ### Exercicio 2: Explorar números diferentes de oitavas, frequencia e persistência
@@ -48,7 +48,7 @@ $ ./app
 ### Exercicio 3: Criar 2 diferentes mapeamentos de biomas
 
 #### (Tentativa de criar) Planície:
-<img src="/Previews/Ex3-1.jpg" width="800" />
+<img src="/Previews/Ex3-1.jpg" width="600" />
 
 #### (Tentativa de criar) Galáxia:
-<img src="/Previews/Ex3-2.jpg" width="800" />
+<img src="/Previews/Ex3-2.jpg" width="600" />
