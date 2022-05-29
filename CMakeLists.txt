@@ -26,5 +26,3 @@ find_package(LibNoise REQUIRED)
 set(CMAKE_CXX_LINK_EXECUTABLE "${CMAKE_CXX_LINK_EXECUTABLE} -lnoise")
 
 target_link_libraries(app noiseutils-static)
-
-include_directories("include")
